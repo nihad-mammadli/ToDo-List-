@@ -18,7 +18,6 @@ extension Task {
 
     @NSManaged public var title: String?
     @NSManaged public var desc: String?
-//    SILINECEK
     @NSManaged public var date: Date?
 
 }
